@@ -1,0 +1,6 @@
+Flask==2.3.0
+qrcode==7.4.2 # Geração de QRCODE
+pillow==11.1.0 # Geração da imagem do QRCODE
+Flask-SocketIO==5.3.6 # Satélite do Flask, ajuda na webhuck
+Flask-SQLAlchemy==3.1.1 # Satélite do Flask para conexão ao DB 
+pytest
